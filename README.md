@@ -258,4 +258,8 @@ State vs Behavior verification
 - users, testers and developers define automated acceptance criteria early in development process. 
 - focuses on capturing requirements in acceptance tests and uses them to drive the development.
 
+The source of truth:
+Gerard Meszaros - http://xunitpatterns.com/
+Martin Fowler - https://martinfowler.com/articles/mocksArentStubs.html
+Wikipedia
 
