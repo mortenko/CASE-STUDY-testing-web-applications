@@ -259,8 +259,7 @@ State vs Behavior verification
 - focuses on capturing requirements in acceptance tests and uses them to drive the development.
 
 The source of truth:
-Gerard Meszaros - http://xunitpatterns.com/
-Martin Fowler - https://martinfowler.com/articles/mocksArentStubs.html
-
-Wikipedia
+1. Gerard Meszaros - http://xunitpatterns.com/
+2. Martin Fowler - https://martinfowler.com/articles/mocksArentStubs.html
+3. Wikipedia
 
