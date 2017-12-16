@@ -261,5 +261,6 @@ State vs Behavior verification
 The source of truth:
 Gerard Meszaros - http://xunitpatterns.com/
 Martin Fowler - https://martinfowler.com/articles/mocksArentStubs.html
+
 Wikipedia
 
